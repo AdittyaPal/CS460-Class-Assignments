@@ -2,5 +2,10 @@
 Class Assignments for the course CS460
 
 Assignmnet 2:
-Implement Gradient Descent using
-![til](./Batch.gif)
+Implement Gradient Descent using<br />
+  # Batch Gradient Descent <br />
+  ![til](./Batch.gif)
+  # Stochastic Gradient Descent <br />
+  ![til](./Stochastic.gif)
+  # Mini-Batch Gradient Descent <br />
+  ![til](./mini.gif)
