@@ -8,4 +8,4 @@ Implement Gradient Descent using<br />
   # Stochastic Gradient Descent <br />
   ![til](./Stochastic.gif)
   # Mini-Batch Gradient Descent <br />
-  ![til](./mini.gif)
+  ![til](./miniBatch.gif)
