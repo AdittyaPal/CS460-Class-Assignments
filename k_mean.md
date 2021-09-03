@@ -5,8 +5,6 @@ The number of clusters k has to be minimized(so the clustering is fairly general
 
 The variance (sum of squared distances from the centriod) can be plotted against the number of clusters, and a k, where the variance does not decrease rapidly should give a near optimal, where
 
-\begin{equation}
-var=\sum_{x\in cluster i} (x-c_i)^2
-\end{equation}
-$ \sum_{\forall i}{x_i^{2}} $
+$var=\sum_{x\in cluster i} (x-c_i)^2$
 where i is the cluster id.
+Iterate over k.
