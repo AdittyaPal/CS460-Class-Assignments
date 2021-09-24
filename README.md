@@ -9,3 +9,5 @@ Implement Gradient Descent using<br />
   ![til](./Stochastic.gif)
   # Mini-Batch Gradient Descent <br />
   ![til](./miniBatch.gif)
+  # Vanilla Perceptron <br />
+  ![til](./Perceptron.gif)
