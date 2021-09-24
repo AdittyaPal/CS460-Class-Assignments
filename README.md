@@ -10,4 +10,4 @@ Implement Gradient Descent using<br />
   # Mini-Batch Gradient Descent <br />
   ![til](./miniBatch.gif)
   # Vanilla Perceptron <br />
-  ![til](./Perpectron.gif)
+  ![til](./Perceptron.gif)
